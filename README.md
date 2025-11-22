@@ -10,3 +10,9 @@ The code focuses on:
 
 The repository is shared as supporting evidence of quantitative and coding skills for the  
 SACEMA Policy Modelling Fellowship 2026.
+
+## Contents
+
+- `ML_Code_Final.R` – main R script for the assignment
+- `Environment_Files_Final.RData` – saved R environment with data/objects
+- `ML_Presentation.pptx` – slides summarising methods and results
